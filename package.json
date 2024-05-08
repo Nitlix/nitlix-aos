@@ -1,6 +1,6 @@
 {
     "name": "nitlix-aos",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "🐙 An AOS-Like Initaliser, with active updates and more features.",
     "main": "./dist/exports.js",
     "keywords": [],

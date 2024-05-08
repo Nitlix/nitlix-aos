@@ -45,7 +45,7 @@ export default function(config: Config = {}): { destroy: () => void } {
                 }
                 else if (mirror){
                     aosElem.classList.remove("aos-animate");
-                    callback(aosElem, "enter", observer, entry);
+                    callback(aosElem, "exit", observer, entry);
                 }
             });
         }, {
