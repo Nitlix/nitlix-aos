@@ -1,0 +1,13 @@
+{
+    "name": "nitlix-aos",
+    "version": "1.0.0",
+    "description": "🐙 An AOS-Like Initaliser, with active updates and more features.",
+    "main": "./dist/exports.js",
+    "keywords": [],
+    "author": "NITLIX HOLDINGS LTD.",
+    "license": "MIT",
+    "devDependencies": {
+        "@types/react": "^18.2.37",
+        "react": "^18.2.0"
+    }
+}
